@@ -1,0 +1,17 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: linear-gradient(
+    180deg,
+    #363467 0%,
+    rgba(30, 29, 79, 0.8) 100%
+  );
+  min-height: 100vh;
+}
